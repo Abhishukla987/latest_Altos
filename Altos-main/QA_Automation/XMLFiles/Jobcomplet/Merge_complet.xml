@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Jobcomplete">
+	<suite-files>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/Create_Job.xml"></suite-file>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/Test_Merge_WorkItem.xml"></suite-file>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/Test_CreateTask_Sorter.xml"></suite-file>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/Test_CompleteTask_SorteTest.xml"></suite-file>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/Test_CompleteTask_MT.xml"></suite-file>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/test_CompleteTask_QA.xml"></suite-file>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/Test_CompleteTask_QC.xml"></suite-file>
+		<suite-file path="/Atos_V2/XMLFiles/Jobcomplet/Ready_To_Billing.xml"></suite-file>
+		
+	</suite-files>
+
+</suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Create Task Sorter]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.altos.Test_cases.Test_CreateTask_Sorter">
+        <methods>
+          <include name="setUpSuite"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="CreatTask_Sorter"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.altos.Test_cases.Test_CreateTask_Sorter -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Create Task Sorter] -->
